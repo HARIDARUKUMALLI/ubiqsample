@@ -1,2 +1,2 @@
-'main test.tx
+7bc1724a495fccf355732474b62c70b75ed7caff7bc1724a495fccf355732474b62c70b75ed7caff7bc1724a495fccf355732474b62c70b75ed7caff'main test.tx
 git push -u origin maingit push -u origin maingit push -u origin maingit push -u origin main
